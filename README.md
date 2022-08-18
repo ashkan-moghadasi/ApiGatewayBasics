@@ -1,2 +1,2 @@
 # ApiGatewayBasics
-in this Demo I Implement Api Gateway Pattern With Ocelot Package
+In this demo I implement Api Gateway Pattern with Ocelot nuget Package Package
